@@ -1,0 +1,4 @@
+/Jeu_fusionne/audios/*
+  Access-Control-Allow-Origin: *
+  Content-Type: audio/mpeg
+  Cache-Control: public, max-age=31536000, immutable
